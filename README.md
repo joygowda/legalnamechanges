@@ -4,7 +4,7 @@ Find duplicates in databases to merge or investigate
 
 ##Simple code snippet to edit to work with your database
 ##Reduce duplicates in database to speed up transctional or lookup speed
-##Used with existing code will help find employees using same SSN for further investigation
+##Used with existing SQL will help find employees using same SSN for further investigation
 ##I had my name legall changed, but my personality, ethics and morality character didn't change for the worse
 
 
