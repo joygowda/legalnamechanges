@@ -9,10 +9,13 @@ I had my name legally changed, but my SSN, personality, ethics and morality char
 Reducing identity fraud in your database and community will be very good thing to increase integrity and trust for your organization.
 Popular or wealthy people aren't necessarily using actual identity because scam artists do carry multiple credit or debit cards with victims' names.
 
-Why? Someone named DG is competing for my identity, as programmer, tech manager and WGU graduate, but isn't authentic. He used different name when I knew him. He lived in my home with completely different name. I was tricked into feeling sorry for him, but I don't feel sorry anymore. I heard from others that he failed to deliver important message to me in 2011. I didn't know enough about him, so I regret having met him in 2011. I changed my mind about dating (anyone in future) because of several bad or misunderstood situations caused by old FB profiles prior to 2010, or fake FB profiles, that won't result in me being trated with kindness. I was born alone. I will die alone. 
+Why? Someone named DG is competing for my identity, as programmer, tech manager and WGU graduate, but isn't authentic. He used different name when I knew him. He lived in my home with completely different name. I was tricked into feeling sorry for him, but I don't feel sorry anymore. I heard from others that he failed to deliver important message to me in 2011. I didn't know enough about him, so I regret having met him in 2011. I changed my mind about dating (anyone in future) because of several bad or misunderstood situations caused by old FB profiles prior to 2010, or fake FB profiles still open, that won't result in me being trated with kindness. 
 
 Realisticly, I prefer chastity or brahmacharya spiritual path. 
-What's Brahmacharya? Directing sexual energy towards more positive or spiritual things. 
+I was born alone. I will die alone. 
+What's Brahmacharya? 
+Directing sexual energy towards more positive or spiritual things, including healing and learning. 
+I have to work for income through my 70's, so no ashram as retirement. 
 https://en.wikipedia.org/wiki/Brahmacharya
 
-Namaste. Seek peace within oneself.
+Namaste. Seek peace within oneself, because there is no peace on Earth.
