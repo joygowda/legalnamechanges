@@ -1,0 +1,6 @@
+SELECT First_Name, Last_Name, Address, City, State, Phone_Number
+#Change names to fit columns in your database to assist with planning further research
+FROM Employees
+#Change name of table to fit your data
+GROUP BY Employee_SSN
+HAVING COUNT (Employee_SSN) > 1
