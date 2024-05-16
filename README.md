@@ -14,7 +14,7 @@ Why? Someone named DG is competing for my identity, as programmer, tech manager 
 I was scammed out of working information technology since 1999, 1st college major change, and other people were scammed too!
 https://nnedv.org/content/about-financial-abuse/
 
-If you want to create products or services that sell to women, then hiring women (of all races and religions) is a must:
+If you want to create technology products or technology services that sell to women, then hiring women (of all races and religions) is a must:
 https://www.generation.org/news/women-in-tech-the-importance-of-gender-diversity-in-the-tech-industry/
 
 Realisticly, I prefer chastity or brahmacharya spiritual path. 
