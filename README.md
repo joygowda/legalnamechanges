@@ -10,3 +10,4 @@ Reducing identity fraud in your database and community will be very good thing t
 Popular or wealthy people aren't necessarily using actual identity because scam artists do carry multiple credit or debit cards with victims' names.
 
 Why? Someone named DG is competing for my identity, as programmer, tech manager and WGU graduate, but isn't authentic. He used different name when I knew him. He lived in my home with completely different name. I was tricked into feeling sorry for him, but I don't feel sorry anymore. I heard from others that he failed to deliver important message to me. I didn't know enough about him, so I regret having met him. I changed my mind about dating because of bad relationships. I prefer chastity or brahmacharya spiritual path. https://www.yogapedia.com/definition/5273/brahmacharya
+https://www.ekhartyoga.com/articles/philosophy/the-yamas-brahmacharya-right-use-of-energy
