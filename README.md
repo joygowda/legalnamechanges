@@ -12,7 +12,7 @@ Popular or wealthy people aren't necessarily using actual identity because scam 
 Why? Someone named DG is competing for my identity, as programmer, tech manager and WGU graduate, but isn't authentic. He used different name when I knew him. He lived in my home with completely different name. I was tricked into feeling sorry for him, but I don't feel sorry anymore. I heard from others that he failed to deliver important message to me in 2011. I didn't know enough about him, so I regret having met him in 2011. I changed my mind about dating (anyone in future) because of several bad or misunderstood situations caused by old FB profiles prior to 2010, or fake FB profiles, that won't result in me being trated with kindness. I was born alone. I will die alone. 
 
 Realisticly, I prefer chastity or brahmacharya spiritual path. 
-What's Brahmacharya? Directing sexual energy towards more meaningful things. 
+What's Brahmacharya? Directing sexual energy towards more positive or spiritual things. 
 https://en.wikipedia.org/wiki/Brahmacharya
 
 Namaste. Seek peace within oneself.
