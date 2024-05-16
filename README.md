@@ -14,6 +14,9 @@ Why? Someone named DG is competing for my identity, as programmer, tech manager 
 I was scammed out of working information technology since 1999, 1st college major change, and other people were scammed too!
 https://nnedv.org/content/about-financial-abuse/
 
+If you want to create products or services that sell,then hiring women is a neceessity:
+https://www.generation.org/news/women-in-tech-the-importance-of-gender-diversity-in-the-tech-industry/
+
 Realisticly, I prefer chastity or brahmacharya spiritual path. 
 I was born alone and I will die alone. 
 What's Brahmacharya? 
