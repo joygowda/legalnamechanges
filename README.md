@@ -9,15 +9,17 @@ I had my name legally changed, but my SSN, personality, ethics and morality char
 Reducing identity fraud in your database and community will be very good thing to increase integrity and trust for your organization.
 Popular or wealthy people aren't necessarily using actual identity because scam artists do carry multiple credit or debit cards with victims' names.
 
-Why? Someone named DG is competing for my identity, as programmer, tech manager and WGU graduate, but isn't authentic. He used different name when I knew him. He lived in my home with completely different name. I was tricked into feeling sorry for him, but I don't feel sorry anymore. I heard from others that he failed to deliver important message to me in 2011. I didn't know enough about him, so I regret having met him in 2011. I changed my mind about dating (anyone in future) because of several bad or misunderstood situations caused by old FB profiles prior to 2010, or fake FB profiles still open, that won't result in me being trated with kindness. 
+Why? Someone named DG is competing for my identity, as programmer, tech manager and WGU graduate, but isn't authentic. He used different name when I knew him. He lived in my home with completely different name. I was tricked into feeling sorry for him, but I don't feel sorry anymore. I heard from others that he failed to deliver important message to me in 2011. I didn't know enough about him, so I regret having met him in 2011. I changed my mind about dating (anyone in future) because of several bad or misunderstood situations caused by old FB profiles prior to 2010, family gossip, and/or fake FB profiles still open, that won't result in me being trated with kindness. Obsession with twisting a poem about domestic violence into something bad to blame on me! I hate being scapegoated by a dozen people. Honestly, some just want me arrested for false charges and house empty because some people doesn't want to work to buy house, car, clothes, alcohol, or even their own food, etc. 
+
+I was scammed out of working information technology for long time, and other people were scammed too! 
 
 Realisticly, I prefer chastity or brahmacharya spiritual path. 
-I was born alone. I will die alone. 
+I was born alone and I will die alone. 
 What's Brahmacharya? 
 Directing sexual energy towards more positive or spiritual things, including healing and learning. 
-I have to work for income through my 70's as programmer, project manager or tech help desk, so no ashram as retirement in my future. 
+I have to work for income through my 70's as programmer, project manager or tech help desk, so no ashram as retirement in my future. I
+If you have remote job that prefers independent workers who don'ts ocialize, contact me. I need work, thanks.
 https://en.wikipedia.org/wiki/Brahmacharya
 https://yogainternational.com/article/view/brahmacharya-the-middle-path-of-restraint/
-
 Seek peace within oneself, because there is no peace on Earth.
 Namaste
