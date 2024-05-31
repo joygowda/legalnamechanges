@@ -21,7 +21,7 @@ Realisticly, I prefer chastity or brahmacharya spiritual path.
 I was born alone and I will die alone. 
 What's Brahmacharya? 
 Directing sexual energy towards more positive or spiritual things, including healing and learning. 
-I have to work for income through my 70's as programmer, project manager or tech help desk, so no ashram as retirement in my future. 
+I will have to work for income through my 70's as programmer, project manager or tech help desk, so no ashram as retirement in my future. 
 If you have remote job that prefers independent workers who don't socialize and are very ethical, contact me. I need work, thanks.
 https://en.wikipedia.org/wiki/Brahmacharya
 https://yogainternational.com/article/view/brahmacharya-the-middle-path-of-restraint/
