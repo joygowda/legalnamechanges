@@ -14,6 +14,9 @@ Why? Someone named DG is competing for my identity, as programmer, tech manager 
 I was scammed out of working information technology since 1999, 1st college major change from Business Admin while mothering toddler, my oldest son, and I am sure other people were scammed too!
 https://nnedv.org/content/about-financial-abuse/
 
+Financial fraud and identity theft can and do steal $ from companies as well as individuals. Don't waste money or lose profits to tolerate unethical or immoral behavior by staff or customers.
+https://bjs.ojp.gov/topics/crime/identity-theft
+
 If you want to create technology products or technology services that sell to women, then hiring women (of all races and religions) is a must:
 https://www.generation.org/news/women-in-tech-the-importance-of-gender-diversity-in-the-tech-industry/
 
