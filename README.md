@@ -17,9 +17,14 @@ https://nnedv.org/content/about-financial-abuse/
 Financial fraud and identity theft can and do steal $ from companies as well as individuals. Don't waste money or lose profits to tolerate unethical or immoral behavior by staff or customers.
 https://bjs.ojp.gov/topics/crime/identity-theft
 
+Did I write the code to give out my ssn of myself and my kids to other people? No, I didn't. I don't support identity fraud. Someone malicious did that on website I didn't use because my achievement on Brainbench programming aptitutde test from 1999 and computer science major then wasn't something they liked. I switched majors and colleges but like programming.
+
 If you want to create technology products or technology services that sell to women, then hiring women (of all races and religions) is a must:
 https://www.generation.org/news/women-in-tech-the-importance-of-gender-diversity-in-the-tech-industry/
 
+Yes, I prefer remote work because of drama on Facebook that isn't me or my kids posting. I am conscientious independent worker. 
+
+Don't beleive the somewhat made-up sex scandals:
 Realisticly, I prefer chastity or brahmacharya spiritual path. 
 I was born alone and I will die alone. 
 What's Brahmacharya? 
