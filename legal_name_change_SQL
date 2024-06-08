@@ -1,5 +1,6 @@
 #Change information to fit columns/schema in your database to assist with planning further research on individuals
-#Change from SSN to emails, addresses, or any other data that might need to be merged because of legal name change
+#Change from SSN to emails, addresses, or any other data that might need to be merged because of legal name change or moving
+#always verify SSN against official federal records at SSA. Those might become subject to integrity loss as I am specific target of fraud for an unknown reason. 
 
 SELECT First_Name, Last_Name, Address, City, State, Phone_Number
 FROM Employees
