@@ -8,7 +8,7 @@ That's possible loophole exploited by others in my life who haven't been caught 
 #Those records might become subject to integrity loss over time as I am specific target of fraud for an unknown reason. Gossip implies international company involved, but I have not been contacted about issues to assist in resolving them. I've had same address since Summer 2015.
 
 
-SELECT First_Name, Last_Name, Address, City, State, Phone_Number
+SELECT First_Name, Last_Name, DOB, Address, City, State, Phone_Number
 FROM Employees
 #Change name of table and columns to fit your data
 GROUP BY Employee_SSN
