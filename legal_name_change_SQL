@@ -1,20 +1,21 @@
-#Change information to fit columns/schema in your database to assist with planning further research on individuals
-#Change from SSN to emails, addresses, or any other data that might need to be researched or updated because of legal name change or moving
-#Oracles, Access, MySQL and other databases usually use altered syntax
-#Discover identity fraud and restore integrity and ethics to your organizations. Ethics matter.
+-- Code snippet written by Joy Gowda because I lost money in old accounts because accounting departmnets don't have regulations to verify customer info over time& I moved a lot and changed legal name
+-- Change information to fit columns/schema in your database to assist with planning further research on individuals
+-- Change from SSN to emails, addresses, or any other data that might need to be researched or updated because of legal name change or moving
+-- Oracles, Access, MySQL and other databases usually use altered syntax
+-- Discover identity fraud and restore integrity and ethics to your organizations. Ethics matter.
 
-#Always verify SSN against official federal records at SSA, BUT CHECK BIRTHDATE as well as city of birth against records. Don't trust paid 3rd party sites.
-#There is possible loophole exploited by others in my life who haven't been caught or stopped from using my SSN. 
-#Those records might become subject to integrity loss over time as I am specific target of fraud for an unknown reason. Gossip implies international company involved, but I have not been contacted about issues to assist in resolving them. I've had same address since Summer 2015.
+-- Always verify SSN against official federal records at SSA, BUT CHECK BIRTHDATE as well as city of birth against records. Don't trust paid 3rd party sites.
+-- There is possible loophole exploited by others in my life who haven't been caught or stopped from using my SSN. 
+-- Those records might become subject to integrity loss over time as I am specific target of fraud for an unknown reason. Gossip implies international company involved, but I have not been contacted about issues to assist in resolving them. I've had same address since Summer 2015.
 
 SELECT First_Name, Last_Name, DOB, Address, City, State, Phone_Number; 
 FROM Employees;
-#Change name of table and columns to fit your data and or database specific syntax
+-- Change name of table and columns to fit your data and or database specific syntax
 GROUP BY Employee_SSN
 HAVING COUNT (Employee_SSN) > 1
 
-#alternate query is to input single SSN and see how many customers have provided same info when a customer reports being identity fraud
+-- alternate query is to input single SSN and see how many customers have provided same info when a customer reports being identity fraud
 SELECT First_Name, Last_Name, DOB, Address, City, State, Phone_Number FROM Customers;
 WHERE Customer_SSN = "number as string data" #better to considers ssn as string than numeric
-#results should be given to HR or Accounting Depts for further investigation
-#employees who commit identity fraud could put other areas of company at risk of financial loss and closed business
+-- results should be given to HR or Accounting Depts for further investigation
+-- employees who commit identity fraud could put other areas of company at risk of financial loss and closed business
