@@ -14,7 +14,7 @@ GROUP BY Employee_SSN
 HAVING COUNT (Employee_SSN) > 1
 
 #alternate query is to input single SSN and see how many customers have provided same info when a customer reports being identity fraud
-SELECT First_Name, Last_Name, DOB, Address, City, State, Phone_Number FROM Employees;
-WHERE Employee_SSN = "number as string data"
+SELECT First_Name, Last_Name, DOB, Address, City, State, Phone_Number FROM Customers;
+WHERE Customer_SSN = "number as string data" #better to considers ssn as string than numeric
 #results should be given to HR or Accounting Depts for further investigation
 #employees who commit identity fraud could put other areas of company at risk of financial loss and closed business
