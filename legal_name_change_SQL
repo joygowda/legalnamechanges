@@ -1,12 +1,14 @@
-/* Code snippet written by Joy Gowda because I am identity fraud survivor and I lost money in old accounts because accounting departments and banking industry don't have regulations to verify customer info over time & I moved a lot and changed legal name and 2 marriages. 
-Change information to fit columns/schema in your database to assist with planning further research on individuals
-Change from SSN to emails, addresses, or any other data that might need to be researched or updated because of legal name change or moving
-Oracles, Access, MySQL and other databases usually use altered syntax
+/* Code snippet written by Joy Gowda because I am identity fraud survivor. I lost money in old accounts because accounting departments and banking industry don't have regulations to verify/AUDIT customer info over time.
+I am specific target of fraud for an unknown reason. Me? I moved a lot (different states: NJ, NY, FL, TX, GA, AZ) and changed legal name as well as 2 marriages. 
+Change information to fit columns/schema in your database to assist with planning further research on individuals.
+Change from SSN to email address, addresses, or any other data that might need to be researched or updated because of legal name change or moving.
+Oracles, Access, MySQL and other databases usually use altered syntax.
 Discover identity fraud and restore integrity and ethics to your organizations. Ethics matter.
+I hope this helps your corporation improve auditing and reduce complaints. 
 
 Always verify SSN against official federal records at SSA, BUT CHECK BIRTHDATE as well as city of birth against records. Don't trust paid 3rd party sites.
 There is possible loophole exploited by others in my life who haven't been caught or stopped from using my SSN. 
-Those records might become subject to integrity loss over time as I am specific target of fraud for an unknown reason. Gossip implies international company involved, but I have not been contacted about issues to assist in resolving them. I've had same address since Summer 2015.
+Those records might become subject to integrity loss over time. Gossip implies international company involved, but I have not been contacted about issues to assist in resolving them. I've had same address since Summer 2015.
 */
 
 SELECT First_Name, Last_Name, DOB, Address, City, State, Phone_Number; 
