@@ -27,6 +27,10 @@ What's Brahmacharya?
 https://en.wikipedia.org/wiki/Brahmacharya
 https://yogainternational.com/article/view/brahmacharya-the-middle-path-of-restraint/
 
+Can black people be Hindu? Absolutely. It's NOT cultural approriation to wear a sari or clothing or worship in an Hindu temple. 
+https://www.reddit.com/r/hinduism/comments/10bsa0k/can_a_black_person_learn_more_aboutfollow_the/
+https://dukespace.lib.duke.edu/items/edd3c605-bb45-412c-8c13-3db244ddc13e
+
 Directing sexual energy towards more positive or spiritual things, including healing and learning. 
 I will have to work for income through my 70's as programmer, project manager or tech help desk, because of student loan debt and currently low wage, orlow interest, jobs offered to me.
 If you have remote job that prefers independent workers who don't socialize and are very ethical, contact me. I need work, thanks, especially that doesn't bend ethics or morality for my spiritual, physical and emotional health. 
