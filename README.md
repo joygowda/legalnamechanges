@@ -27,7 +27,7 @@ What's Brahmacharya?
 https://en.wikipedia.org/wiki/Brahmacharya
 https://yogainternational.com/article/view/brahmacharya-the-middle-path-of-restraint/
 
-Can black people be Hindu? Absolutely. It's NOT cultural approriation to wear a sari or clothing or worship in an Hindu temple. 2 years ago writer in first artcile, "Contrary to popular belief, race is completely irrelevant to practice Hinduism. To see the divine in everyone and everything is a basic tenet of Hinduism." Everyone is Hindu in reality. 
+Can black people be Hindu? Absolutely CAN be. It's NOT cultural approriation to wear a sari or clothing or worship in an Hindu temple. 2 years ago writer in first article, "Contrary to popular belief, race is completely irrelevant to practice Hinduism. "Contrary to popular belief, race is completely irrelevant to practice Hinduism. To see the divine in everyone and everything is a basic tenet of Hinduism." Everyone is Hindu in broadest view of reality.  
 https://www.reddit.com/r/hinduism/comments/10bsa0k/can_a_black_person_learn_more_aboutfollow_the/
 https://dukespace.lib.duke.edu/items/edd3c605-bb45-412c-8c13-3db244ddc13e
 https://www.hindupedia.com/en/Historical_Racial_Diversity_of_Hindus
