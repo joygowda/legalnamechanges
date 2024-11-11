@@ -21,8 +21,8 @@ https://www.generation.org/news/women-in-tech-the-importance-of-gender-diversity
 
 Yes, I prefer remote work because of drama on Facebook that isn't me or my kids posting. I am conscientious independent worker. Why? Several people are competing for my identity, as programmer, tech manager and WGU graduate, but isn't authentic. One used different name when I knew him. He lived in my home (few months at a time - never on lease) with completely different name. I was tricked into feeling sorry for him, but I don't feel sorry anymore. I heard from others that he failed to deliver important message to me in 2011. I didn't know enough about him, so I regret having met him in 2011. I changed my mind about dating (anyone in future) because of several bad or misunderstood situations caused by old FB profiles prior to 2010, family gossip, and/or fake FB profiles still open, that won't result in me being trated with kindness. Obsession with twisting a poem about domestic violence into something bad to blame on me! I hate being scapegoated by a dozen people. Honestly, some just want me arrested for false charges and house empty because some people are scammers who get high when stealing.  
 
-Don't beleive the mostly made-up sex scandals. Everyone does stupid stuff in their 20's, but I stopped doing stupid stuff by 1997:
-Realisticly, I prefer chastity or brahmacharya spiritual path. I was taken advantage of by men who decided to say I was "impure", bad or unworthy to excuse unethical behavior.  
+Don't beleive the mostly made-up sex scandals. Everyone does stupid stuff in their 20's, but I stopped doing stupid stuff by 1997. FYI, Bitcoin wallet page with an photo from 2004 had login stolen between 2017 and 2020. Don't give $ based on phtoos alone because you WILL be scammed!
+Realisticly, I prefer chastity or brahmacharya spiritual path. I was taken advantage of by men who decided to say I was "impure", bad or unworthy to excuse unethical behavior. I'm older now so correct life phase is vanaprastha, but I still want to work rather than retire into the forest.  
 What's Brahmacharya? 
 https://en.wikipedia.org/wiki/Brahmacharya
 https://yogainternational.com/article/view/brahmacharya-the-middle-path-of-restraint/
@@ -34,6 +34,4 @@ https://www.hindupedia.com/en/Historical_Racial_Diversity_of_Hindus
 
 Directing sexual energy towards more positive or spiritual things, including healing and learning. I will have to work for income through my 70's to pay off student loan debt while currently working non-tech jobs offered to me.
 If you have remote job that prefers independent workers who don't socialize and are very ethical, contact me. I need work, thanks, especially that doesn't bend ethics or morality for my spiritual, physical and emotional health. 
-
-Seek peace within oneself, because there is no peace on Earth.
-Namaste
+Namaste and thank you!
