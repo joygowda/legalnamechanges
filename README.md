@@ -8,6 +8,7 @@ SQL snippet when used with existing data will help find employees or customers u
 I had my name legally changed, but my SSN, personality, ethics and morality character didn't change (for the worse, just better).
 Reducing identity fraud in your database and community will be very good thing to increase integrity and trust for your organization.
 The most popular or most wealthy people aren't necessarily using actual identity because scam artists do carry multiple credit or debit cards with victims' names.
+Yes, I am missing leases and unusual types of paperwork related/connected to my three sons who are over 23 as well as TWO marriages that another women claims was her now! 
 
 I was scammed out of working information technology since 1999, 1st college major change from Business Admin while mothering toddler, my oldest son, and I am sure other people were scammed too!
 Did I write the code to give out ssn of myself and my kids to other people? No, I didn't. I wouldn't have had time to coordinate with others to commit crime AND I don't support identity fraud or immigration fraud!!!! Some malicious actors did bad stuff using my name, or had same name, on websites I never used because my achievement on Brainbench programming aptitude test from 1999 and computer science major then wasn't something they liked. I switched majors and colleges, delaying graduation, but like programming and computer languages.
