@@ -1,15 +1,19 @@
-/* Code snippet written by Joy Gowda because I am identity fraud survivor. I lost money in old accounts because accounting departments and banking industry don't have regulations to verify/AUDIT customer info over time.
-I am specific target of fraud for an unknown reason. Me? I moved a lot (different states: NJ, NY, FL, TX, GA, AZ and WA- not in order) and changed legal name as well as 2 marriages. 
+/* Code snippet written by Joy Gowda because I am identity fraud survivor. I lost money in old accounts because accounting departments and banking industry don't have regulations to verify/AUDIT customer info that changes over time.
+I am specific target of fraud for an unknown reason. Me? I moved a lot (different states: NJ, NY, FL, TX, GA, AZ and WA- not in order) and changed legal name as well as 2 marriages after age 18. 
 
+To apply to your database: 
 Change information to fit columns/schema in your database to assist with planning further research on individuals.
-Change from SSN to email address, addresses, or any other data that might need to be researched or updated because of legal name change or moving.
-NOTE: Oracles, Access, MySQL and other databases usually use altered syntax.
-Discover identity fraud and restore integrity and ethics to your organizations. Ethics matter.
-I hope this helps your corporation improve auditing and reduce complaints and problems with KYC regulations. 
 
-Always verify SSN against official federal records at SSA, BUT CHECK BIRTHDATE as well as city of birth against records. Don't trust paid 3rd party sites.
-There is possible loophole exploited by others in my life who haven't been caught or stopped from using my SSN. 
-Those records might become subject to integrity loss over time. Gossip implies international company involved, but I have not been contacted about issues to assist in resolving them. I've had same address since Summer 2015.
+Optional: change from SSN to email address, addresses, or any other data that might need to be researched or updated because of legal name change or moving.
+
+NOTE: Oracles, Access, MySQL and other databases usually use altered syntax.
+
+Discover identity fraud and restore integrity and ethics to your organizations. Ethics matter.
+I hope this helps your corporation improve auditing and reduce complaints and problems with KYC (know your customer) regulations.
+
+Always verify SSN against official federal records at SSA, often matching IRS records but not always, BUT CHECK BIRTHDATE as well as city of birth against records. Always cross-reference state licenses for current addresses as SSA records could be wrong! Involve police when information varies greatly. In my case, my FIRST name Joyce was legally changed in 2001 and not used afterwards for credit, banking or legal issues! Don't trust paid 3rd party sites, especially in my case, because data brokers don't always add information in order or correctly.
+That is possible loophole exploited by others in my life who haven't been caught or stopped from using my SSN. Law enforcement could buy me a coffee, or offer me a career, if this code is helpful!
+Any records might become subject to integrity loss over time. Gossip implies international company involved, but I have not been contacted about issues to assist in resolving them. I've had same mailing address since Summer 2015.
 */
 
 SELECT First_Name, Last_Name, DOB, Address, City, State, Phone_Number; 
@@ -21,5 +25,5 @@ HAVING COUNT (Employee_SSN) > 1
 -- alternate query is to input single SSN and see how many customers have provided same info when a customer reports being identity fraud
 SELECT First_Name, Last_Name, DOB, Address, City, State, Phone_Number FROM Customers;
 WHERE Customer_SSN = "number as string data" #better to considers ssn as string than numeric
--- results should be given to HR or Accounting Depts for further investigation
--- employees who commit identity fraud could put other areas of company at risk of financial loss and closed business
+-- results should be given to HR or Accounting or Legal Depts for further investigation
+-- employees who commit identity fraud could put other areas of company at risk of financial loss and closed businesses could be result of deception.
